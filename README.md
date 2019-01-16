@@ -2,7 +2,7 @@
 
 Fully Connected Neural Network implementation on C.
 
-Please see main.c to set the settings of network.
+Please see `main.c` to set the settings of network.
 
 ## Getting Started
 
@@ -13,7 +13,7 @@ Build (all):
 Build (only network):
   make main
   
-Build (only tests)
+Build (only tests):
   make unittest
 ```
 
